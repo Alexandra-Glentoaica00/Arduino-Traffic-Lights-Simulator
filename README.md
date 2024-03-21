@@ -1,8 +1,8 @@
 ==<img width="1195" alt="Screenshot 2024-03-21 at 10 08 51" src="https://github.com/Alexandra-Glentoaica00/Arduino-Traffic-Lights-Simulator/assets/111219179/8bc11524-2839-474f-b9c5-b7c94a82122f">
 
-![5CDF8555-9539-4642-B122-1D1AAAF84E54_1_206_a](https://github.com/Alexandra-Glentoaica00/Arduino-Traffic-Lights-Simulator/assets/111219179/069d7301-995f-4e2d-8d36-bbf4af54c420)
+![D784F3CD-2344-4A22-810F-A9F6BD07B7F4_1_201_a](https://github.com/Alexandra-Glentoaica00/Arduino-Traffic-Lights-Simulator/assets/111219179/60897b6e-78e4-47e6-873c-0bcdf1ecbedb)
 
-**Components andpplies:**
+**Components and supplies:**
 1 Arduino UNO
 1 Breadboard - 830 contacts
 7 Resistor 330 Ohm
