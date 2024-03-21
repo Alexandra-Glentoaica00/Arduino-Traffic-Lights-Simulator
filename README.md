@@ -4,14 +4,23 @@
 
 **Components and supplies:**
 1 Arduino UNO
+
 1 Breadboard - 830 contacts
+
 7 Resistor 330 Ohm
+
 6 LEDs
+
 1 Push Button
+
 1 Active Buzzer
+
 1 7-Segment Display
+
 1 74HC595 Shift Register
+
 jumper wires (as needed)
+
 
 **Project Description**
 In this project I want to simulate how traffic lights work in an intersection. I built two traffic lights, one for cars and the other for pedestrians. The first traffic light will continue to be green until a pedestrian presses the button. After that, the green color will change to yellow and then red. In that moment, the pedestrian traffic light will switch to green for 7 seconds and yellow for 3 seconds. During this time an audible sound will be emitted to alert people they are allowed to cross.
